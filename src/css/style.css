@@ -28,20 +28,21 @@ header {
     padding: 25px;
 }
 
+
 header .brasao {
     width: 300px;
     padding: 15px;
 }
 
-header .brasao:hover {
-    transform: scale(1.05);
-    cursor: pointer;
-}
 
 header .logo,
 header .imagem-botao {
     width: 35px;
     transition: 0.2s ease-in-out;
+}
+
+header .brasao{
+    transition: 0.3s ease-in-out;
 }
 
 header #botao-alterar-tema {
@@ -50,6 +51,7 @@ header #botao-alterar-tema {
 }
 
 header .logo:hover,
+header .brasao:hover,
 header .imagem-botao:hover,
 main .cartao-pokemon:hover {
     transform: scale(1.05);

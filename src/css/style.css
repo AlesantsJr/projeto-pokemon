@@ -162,14 +162,14 @@ main .cartao-pokemon .tipos {
     background-color: #a6b91a;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-voador {
     background-color: #8fddc6;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-eletrico {

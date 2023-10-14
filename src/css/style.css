@@ -134,28 +134,28 @@ main .cartao-pokemon .tipos {
     background-color: #4fc50b;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-veneno {
     background-color: #df67ddfb;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-fogo {
     background-color: #ee8130;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-agua {
     background-color: #6390f0;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-inseto {
@@ -176,14 +176,14 @@ main .cartao-pokemon .tipos {
     background-color: yellow;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .tipo-psiquico {
     background-color: pink;
     border-radius: 05px;
     box-shadow: 5px 5px 5px rgba(74, 71, 71, 0.755);
-    font-weight: bold;
+    font-weight: 500;
 }
 
 main .descricao {
